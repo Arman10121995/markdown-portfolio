@@ -1,1 +1,2 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![My Pic](![IMG_4368-001](https://user-images.githubusercontent.com/82983915/144891227-7bc94fb4-e484-4a90-8f37-12d58d54af40.JPG)
+)
