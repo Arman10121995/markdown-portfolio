@@ -1,1 +1,1 @@
-(url) https://www.linkedin.com/in/arman10121995/
+https://www.linkedin.com/in/arman10121995/
